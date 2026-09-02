@@ -36,3 +36,12 @@ To compile and run this game, you need:
 ```bash
 git clone https://github.com/your-username/guess-number-c.git
 cd guess-number-c
+```
+
+---
+
+<div align="center">
+
+<sub>© 2026 abdullahaljehan-me · Licensed under MIT</sub>
+
+</div>
