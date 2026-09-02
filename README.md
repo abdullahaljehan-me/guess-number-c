@@ -1,4 +1,4 @@
-# 🎲 Guess The Number - C
+# 🎲 Guess The Number (C)
 
 Welcome to **Guess The Number**, a clean, interactive, and robust command-line game written in pure C. 
 
